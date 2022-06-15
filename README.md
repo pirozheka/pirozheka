@@ -15,6 +15,8 @@ Have a great experience as a fast-food worker :D and don't want to repeat.
 
 📧 pirozheka@gmail.com
 
+✨ http://jay-developer.space/
+
 🗒 https://t.me/aurora_starship
 <!--
 **pirozheka/pirozheka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
