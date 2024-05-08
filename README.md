@@ -12,13 +12,16 @@ Contact me:
 
 
 ![](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=yellow)
+<br>
 ![](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-FCC624?style=flat-square&logo=javascript&logoColor=yellow)
-![Static Badge](https://img.shields.io/badge/code-React-blue?style=flat-square&logo=React&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/code-Next.js-black?style=flat-square&logo=Next.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/code-Django-%230c4b33?style=flat-square&logo=django&logoColor=%2344b78b)
+![Static Badge](https://img.shields.io/badge/Code-React-blue?style=flat-square&logo=React&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Code-Next.js-black?style=flat-square&logo=Next.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Code-Django-%230c4b33?style=flat-square&logo=django&logoColor=%2344b78b)
+<br>
 ![](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br>
 ![](https://img.shields.io/badge/styling-Tailwind_CSS-blue?style=flat-square&logo=tailwindcss&logoColor=%230ea5e9)
 ![Static Badge](https://img.shields.io/badge/styling-Bootstrap-violet?style=flat-square&logo=bootstrap&logoColor=violet)
 
