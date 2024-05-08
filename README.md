@@ -16,6 +16,7 @@ Contact me:
 ![](https://img.shields.io/badge/Code-JavaScript-FCC624?style=flat-square&logo=javascript&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/code-React-blue?style=flat-square&logo=React&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/code-Next.js-black?style=flat-square&logo=Next.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/code-Django-%230c4b33?style=flat-square&logo=django&logoColor=%2344b78b)
 ![](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/styling-Tailwind_CSS-blue?style=flat-square&logo=tailwindcss&logoColor=%230ea5e9)
